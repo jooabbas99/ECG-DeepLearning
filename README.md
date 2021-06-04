@@ -9,4 +9,4 @@
 
 to download in colab : 
 
-    ! gdown -id 1iPhrSlNQMTv1Zp7YrMwUItQ9YXFDBTZ9
+    ! gdown --id 1iPhrSlNQMTv1Zp7YrMwUItQ9YXFDBTZ9
