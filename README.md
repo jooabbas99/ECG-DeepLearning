@@ -3,9 +3,9 @@
 
 ## dataset 
 
- - csd id from drive : 1xalySSeVGyLgWk2LaujkEaUBMEDcTKtq
- - image 256 with filter : 1iPhrSlNQMTv1Zp7YrMwUItQ9YXFDBTZ9
- - image 128 : 1GFm7tkn1N6Yx9kbm3UXIDXjOpAL19_HF
+ - csv from drive : https://drive.google.com/file/d/1xalySSeVGyLgWk2LaujkEaUBMEDcTKtq/view?usp=sharing
+ - image 256 with filter : https://drive.google.com/file/d/1_-DZVz5AKqrxqpvh-s7Q3tKgirJhJzRn/view?usp=sharing
+
 
 to download in colab : 
 
