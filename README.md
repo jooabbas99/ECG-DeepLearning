@@ -13,3 +13,4 @@ to download in colab :
 
 
 CNN1D model best epoch : 1nhE3RfagY6lbohfX1ZWdHKeYara_Ejpu
+cnn1d model : 1jmNO4HgVdn0yoIG30twQzDfh9jsYAqJj
