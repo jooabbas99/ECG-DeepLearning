@@ -10,3 +10,6 @@
 to download in colab : 
 
     ! gdown --id 1iPhrSlNQMTv1Zp7YrMwUItQ9YXFDBTZ9
+
+
+CNN1D model best epoch : 1nhE3RfagY6lbohfX1ZWdHKeYara_Ejpu
